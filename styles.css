@@ -1,0 +1,47 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #2E4F4F;
+}
+
+h1 {
+  margin: 40px;
+  font-family: 'Righteous', cursive;
+  text-shadow: 5px 0 #070A52;
+  font-size: 7rem;
+  color: #c9cf91;
+}
+
+p {
+  font-size: 2rem;
+  color: #c9cf91;
+  font-weight: bold;
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+.inst {
+  margin-top: 60px;
+}
+
+.img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Indie Flower', cursive;
+
+}
